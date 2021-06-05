@@ -6,6 +6,7 @@
 
 🟢 SQL
 
+🟢 HTML/CSS
 
 <!--
 |[https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png](https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png)
