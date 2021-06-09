@@ -1,7 +1,8 @@
-### Hello 🔅
-### I am Kristaps Ditke!
-<img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px">
+### 🟢 Hello 🔅
+### 🟢 I am Kristaps Ditke!
 <hr>
+<img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px">
+ 🟢 My skills covers:
 <ul style="list-style-type:circle;">
   <li>Git</li>
   <li>C#</li>
@@ -14,7 +15,7 @@
   <li>Design Patterns</li>
   <li>HTML & CSS, VueJS, TypeScript & NodeJS basics</li>
 </ul>
-🟢
+
 <!--
 |[https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png](https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png)
 **KristapsDitke/KristapsDitke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
