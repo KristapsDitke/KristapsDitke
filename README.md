@@ -4,7 +4,7 @@ I'm constantly striving to increase my capacity of being useful. My strength has
 </br>
 I dear to dream for reality where technology is more towards enriching human - nature experiences and less as distraction.
 <hr>
-<span><img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px"> <h2>ToolBox</h2></span></br>
+<span><h2><img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px"> My ToolBox</h2></span></br>
 <span>
  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" width="30px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-line.svg" width="30px">
@@ -26,22 +26,9 @@ I dear to dream for reality where technology is more towards enriching human - n
   <li>HTML & CSS, VueJS, TypeScript & NodeJS basics</li>
 </ul>
 <hr>
-Contact me: </br>
+<h2>💬 Contact me: </h2>
 | ditkek@gmail.com | +371 26133702 |
 <!--
-|[https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png](https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png)
-**KristapsDitke/KristapsDitke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Git
-
-
-Relational Databses & SQL
-
-
-
-
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning C# and .NET
