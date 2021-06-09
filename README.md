@@ -1,5 +1,5 @@
 ### Hello 🔅
-I am Kristaps Ditke!
+### I am Kristaps Ditke!
 <img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px">
 <hr>
 <ul style="list-style-type:circle;">
