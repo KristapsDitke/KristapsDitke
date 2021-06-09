@@ -10,9 +10,10 @@ I dear to dream for reality where technology is more towards enriching human - n
 <span>
  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" width="30px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-line.svg" width="30px">
- <img src="" width="30px">
- <img src="" width="30px">
-</span></br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/dot-net/dot-net-plain.svg" width="30px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" width="30px">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg" width="30px">
+ </span></br>
  My skills cover:
 <ul style="list-style-type:circle;">
   <li>Git</li>
