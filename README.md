@@ -6,7 +6,7 @@ I'm constantly striving to increase my capacity of being useful. My strength has
 </br>
 I dear to dream for reality where technology is more towards enriching human - nature experiences and less as distraction.
 <hr>
-<span><img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px"> ## ToolBox</span></br>
+<span><img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px"> ### ToolBox</span></br>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg" width="30px"></span></br>
  My skills cover:
 <ul style="list-style-type:circle;">
