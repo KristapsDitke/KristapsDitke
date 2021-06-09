@@ -6,8 +6,8 @@ I'm constantly striving to increase my capacity of being useful. My strength has
 </br>
 I dear to dream for reality where technology is more towards enriching human - nature experiences and less as distraction.
 <hr>
-<img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px">
- 🟢 My skills covers:
+<img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="30px">
+ My skills cover:
 <ul style="list-style-type:circle;">
   <li>Git</li>
   <li>C#</li>
