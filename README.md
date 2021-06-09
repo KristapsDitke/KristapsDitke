@@ -1,9 +1,9 @@
 ### Hello 🔅
 ### I am Kristaps Ditke!
 <hr>
-I'm an aspiring .NET/C# software developer.
+I'm an aspiring .NET/C# software developer.</br>
 I'm constantly striving to increase my capacity of being useful. My strength has always been my logics, curiosity for problemsolving and looking for ways to improve environment. As field of IT occupies more and more space in contemporary reality requirements for digital skills become obviously relevant. Therefor I have begun my journey into coding. I have had some moderate experience in standartised education facilities that has led mee to try something different. Im very happy to discover CODELEX as mutually interested education system for meaningfull and lasting results.
-
+</br>
 I dear to dream for reality where technology is more towards enriching human - nature experiences and less as distraction.
 <hr>
 <img src="https://bestanimations.com/media/gears/1096359774gold-brass-gear-cogs-animated-5.gif" width="60px">
