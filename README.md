@@ -21,7 +21,7 @@ I dear to dream for reality where technology is more towards enriching human - n
   <li>HTML & CSS, VueJS, TypeScript & NodeJS basics</li>
 </ul>
 <hr>
-Contact me:
+Contact me: </br>
 | ditkek@gmail.com | +371 26133702 |
 <!--
 |[https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png](https://github.com/KristapsDitke/KristapsDitke/blob/main/SeekPng.com_twitter-bird-logo-png_502168.png)
