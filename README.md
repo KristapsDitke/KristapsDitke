@@ -23,7 +23,7 @@ I dear to dream for reality where technology is more towards enriching human - n
   <li>Test Driven Development</li>
   <li>Clean Code, SOLID</li>
   <li>Design Patterns</li>
-  <li>HTML & CSS, VueJS, TypeScript & NodeJS basics</li>
+  <li>HTML & CSS, React, Angular, TypeScript & NodeJS basics</li>
 </ul>
 <hr>
 <h2>💬 Contact me: </h2>
